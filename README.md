@@ -1,2 +1,5 @@
-# PSTAT100_FInal
-Pstat 100 Final
+"Hello How are we doing today"
+x <- 44
+
+
+
